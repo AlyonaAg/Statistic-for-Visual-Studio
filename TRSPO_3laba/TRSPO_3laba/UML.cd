@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TRSPO_3laba.ToolWindow1Control">
+    <Position X="4" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAQCAAAQABICAAACgAAAAAAAMAAAAABAAAAAGwCAA=</HashCode>
+      <FileName>ToolWindow1Control.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Controls.UserControl">
+    <Position X="4" Y="7" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TRSPO_3laba.ToolWindow1">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ToolWindow1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRSPO_3laba.ToolWindow1Command">
+    <Position X="6.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAABQAAAAAAAAAAAIAIAAAQQAAAAAAAAA=</HashCode>
+      <FileName>ToolWindow1Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TRSPO_3laba.TRSPO_3labaPackage">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TRSPO_3labaPackage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Shell.AsyncPackage">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Shell.Package" Collapsed="true">
+    <Position X="8.25" Y="7.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Microsoft.VisualStudio.Shell.Package.ToolWindowCreationContext" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Microsoft.VisualStudio.Shell.Package.ProfferedService" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="6.25" Y="4" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Shell.ToolWindowPane" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Shell.WindowPane" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Microsoft.VisualStudio.Shell.WindowPane.PaneInitializationMode" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TRSPO_3laba.StatisticSet">
+    <Position X="6.25" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAICAAAAAAAAAAAAAAQEAAAAAAA=</HashCode>
+      <FileName>ToolWindow1Control.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
